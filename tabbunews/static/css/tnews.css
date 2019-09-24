@@ -1,0 +1,24 @@
+
+body{
+ background: url(https://wallpapercave.com/wp/wp1861714.jpg);
+ background-size: cover;
+ color:white;
+}
+h1{
+text-align: center;
+background: green;
+}
+ ul{
+    font-size: 20px;
+ }
+.jumbotron{
+  margin-top:100px;
+  background: blue;
+  color: white;
+}
+img{
+    width:15%;
+    height: 250px;
+    border: 10px solid green;
+    margin: 10px;
+}
